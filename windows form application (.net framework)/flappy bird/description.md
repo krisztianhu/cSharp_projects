@@ -1,4 +1,5 @@
 ﻿# flappy bird 
+## nyisdmeg szerkesztésre, mert így elcsúszik
 
 * Irjuk át a Form Text tulajdonságát -> Flappy Bird -re
 * Form BackColor tulajdonságánál módosítsuk a háttért
