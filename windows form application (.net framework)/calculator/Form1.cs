@@ -83,7 +83,7 @@ namespace calculator
 
         private void btnSzorzas_Click(object sender, EventArgs e)
         {
-            num1 = int.Parse(txtDisplay.Text);// a müvelet előtti számok
+           // num1 = int.Parse(txtDisplay.Text);// a müvelet előtti számok
             option = "*";
 
             txtDisplay.Clear();
@@ -134,6 +134,22 @@ namespace calculator
             result = (0);   // törli a változó tartalmát
             num1 = (0);     // törli a változó tartalmát
             num2 = (0);     // törli a változó tartalmát
+        }
+
+        private void btnZarojelNyito_Click(object sender, EventArgs e)
+        {
+            //num1 = int.Parse(txtDisplay.Text);// a müvelet előtti számok
+            option = "(";
+
+            txtDisplay.Clear();
+        }
+
+        private void btnZarojelZaro_Click(object sender, EventArgs e)
+        {
+            num1 = int.Parse(txtDisplay.Text);// a müvelet előtti számok
+            option = ")";
+
+            txtDisplay.Clear();
         }
     }
 }

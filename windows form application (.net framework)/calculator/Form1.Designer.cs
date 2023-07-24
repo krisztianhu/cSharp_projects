@@ -188,6 +188,7 @@
             this.btnZarojelZaro.TabIndex = 12;
             this.btnZarojelZaro.Text = ")";
             this.btnZarojelZaro.UseVisualStyleBackColor = true;
+            this.btnZarojelZaro.Click += new System.EventHandler(this.btnZarojelZaro_Click);
             // 
             // btnZarojelNyito
             // 
@@ -200,6 +201,7 @@
             this.btnZarojelNyito.TabIndex = 11;
             this.btnZarojelNyito.Text = "(";
             this.btnZarojelNyito.UseVisualStyleBackColor = true;
+            this.btnZarojelNyito.Click += new System.EventHandler(this.btnZarojelNyito_Click);
             // 
             // btnTorles
             // 
