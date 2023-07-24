@@ -83,7 +83,7 @@ namespace calculator
 
         private void btnSzorzas_Click(object sender, EventArgs e)
         {
-           // num1 = int.Parse(txtDisplay.Text);// a müvelet előtti számok
+            num1 = int.Parse(txtDisplay.Text);// a müvelet előtti számok
             option = "*";
 
             txtDisplay.Clear();
