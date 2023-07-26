@@ -1,0 +1,11 @@
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\bin\Debug\simple image gallery.exe.config
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\bin\Debug\simple image gallery.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\bin\Debug\simple image gallery.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple image gallery.csproj.AssemblyReference.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple image gallery.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple_image_gallery.Form1.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple_image_gallery.Properties.Resources.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple image gallery.csproj.GenerateResource.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple image gallery.csproj.CoreCompileInputs.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple image gallery.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple image gallery\obj\Debug\simple image gallery.pdb
