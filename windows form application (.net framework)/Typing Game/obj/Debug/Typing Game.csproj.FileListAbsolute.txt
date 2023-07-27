@@ -1,0 +1,11 @@
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\bin\Debug\Typing Game.exe.config
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\bin\Debug\Typing Game.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\bin\Debug\Typing Game.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing Game.csproj.AssemblyReference.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing_Game.Properties.Resources.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing Game.csproj.GenerateResource.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing Game.csproj.CoreCompileInputs.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing Game.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing Game.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\Typing Game\obj\Debug\Typing_Game.Form1.resources
