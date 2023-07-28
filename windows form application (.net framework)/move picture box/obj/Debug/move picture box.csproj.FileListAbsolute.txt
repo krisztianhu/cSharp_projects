@@ -1,0 +1,11 @@
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\bin\Debug\move picture box.exe.config
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\bin\Debug\move picture box.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\bin\Debug\move picture box.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move picture box.csproj.AssemblyReference.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move picture box.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move_picture_box.Form1.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move_picture_box.Properties.Resources.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move picture box.csproj.GenerateResource.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move picture box.csproj.CoreCompileInputs.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move picture box.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\move picture box\obj\Debug\move picture box.pdb
