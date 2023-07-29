@@ -1,0 +1,11 @@
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\bin\Debug\foreach loops.exe.config
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\bin\Debug\foreach loops.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\bin\Debug\foreach loops.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach loops.csproj.AssemblyReference.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach_loops.Form1.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach_loops.Properties.Resources.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach loops.csproj.GenerateResource.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach loops.csproj.CoreCompileInputs.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach loops.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\foreach loops\obj\Debug\foreach loops.pdb
