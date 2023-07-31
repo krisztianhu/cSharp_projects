@@ -1,0 +1,11 @@
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\bin\Debug\collision detection.exe.config
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\bin\Debug\collision detection.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\bin\Debug\collision detection.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision detection.csproj.AssemblyReference.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision detection.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision_detection.Form1.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision_detection.Properties.Resources.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision detection.csproj.GenerateResource.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision detection.csproj.CoreCompileInputs.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision detection.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\collision detection\obj\Debug\collision detection.pdb
