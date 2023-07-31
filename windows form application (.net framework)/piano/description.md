@@ -1,0 +1,45 @@
+# Piano
+
+- nevezzük át a Form-ot, katt a Form-ra Properities Text és mellé irjuk be hogy Piano
+- méretezzük át a Form-ot Properities Size 920;330-ra
+- a VS-ben felül Project -> Piano Properities
+- ba oldalt Resources, felül van Strings felirattal egy gomb mellette egy nyil ami lenyilik
+- válaszuk ki az Audio-t, megint felül Add Resource-re katt és Add Existing File...
+- itt a link a audiokhoz: 
+- ezt töltsük le, csomagoljuk ki a projektünk Properities könyvtárába
+- és jelüljük ki az összes audiót
+- most menjünk vissza a Form-ra Toolbox és huzzuk ki egy button-t
+- legyen a button mérete 75;267, formázzuk is kicsit
+- button Properities Font-ba kattintsunk bele, betûméret 18, betûstílus félkövér
+- a Text tulajdonsága C és a TextAlign BottomCenter
+- a Design neve legyen musicNoteC
+- másoljuk ezt a button egymásmellé, hogy összesen 11 daran legyen
+- a második button Design neve musicNoteD és Text-je D
+- a következõ button Design neve musicNoteE és Text-je E
+- a következõ button Design neve musicNoteF és Text-je F
+- a következõ button Design neve musicNoteG és Text-je G
+- a következõ button Design neve musicNoteA és Text-je A
+- a következõ button Design neve musicNoteB és Text-je B
+- a következõ button Design neve musicNoteC1 és Text-je C1
+- a következõ button Design neve musicNoteD1 és Text-je D1
+- a következõ button Design neve musicNoteE1 és Text-je E1
+- a következõ button Design neve musicNoteF1 és Text-je F1
+- utána rá rakjuk a gombokra a további gombokat
+- lásd az ábrát
+- a következõ button Design neve musicNoteCS és Text-je C#
+- a következõ button Design neve musicNoteDS és Text-je D#
+- a következõ button Design neve musicNoteFS és Text-je F#
+- a következõ button Design neve musicNoteGS és Text-je G#
+- a következõ button Design neve musicNoteBB és Text-je Bb
+- a következõ button Design neve musicNoteCS1 és Text-je C#1
+- a következõ button Design neve musicNoteDS1 és Text-je D#1
+- ezután menjünk a kódrészletre és a névtereknél emeljük be a using System.Media; -t
+- menjünk a Form-ra és kattintsunk 2x a musicNoteC gombra
+- irjuk be a köv. : SoundPlayer sp = new SoundPlayer();
+- ezel példányositjuk a zenelejátszót
+- a Solution Explorer-ben keressük meg a hangokat
+- jobb click a hangra és Copy Full Path
+- ezt másoljuk idézõjelek közé a zárójelbe utána új sorban
+- sp.Play();
+- ezt csináljuk meg az összes gombban, a hangfájlok nevébõl fogjuk tudni mi hová tartozik
+- 

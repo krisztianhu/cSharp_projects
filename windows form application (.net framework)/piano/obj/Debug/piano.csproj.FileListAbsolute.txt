@@ -1,0 +1,11 @@
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\bin\Debug\piano.exe.config
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\bin\Debug\piano.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\bin\Debug\piano.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.csproj.AssemblyReference.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.Form1.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.Properties.Resources.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.csproj.GenerateResource.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.csproj.CoreCompileInputs.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\piano\obj\Debug\piano.pdb
