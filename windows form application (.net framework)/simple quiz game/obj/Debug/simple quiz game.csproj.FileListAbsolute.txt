@@ -1,0 +1,11 @@
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\bin\Debug\simple quiz game.exe.config
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\bin\Debug\simple quiz game.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\bin\Debug\simple quiz game.pdb
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple quiz game.csproj.AssemblyReference.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple quiz game.csproj.SuggestedBindingRedirects.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple_quiz_game.Form1.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple_quiz_game.Properties.Resources.resources
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple quiz game.csproj.GenerateResource.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple quiz game.csproj.CoreCompileInputs.cache
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple quiz game.exe
+C:\Users\READY\source\repos\c#_projects\windows form application (.net framework)\simple quiz game\obj\Debug\simple quiz game.pdb
